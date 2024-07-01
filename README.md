@@ -1,6 +1,17 @@
 
 # SMARTBUTLER
 >*시설물 관리 및 대여 시스템*
+>#### 프로젝트 기간: 2024.01.15 ~ 2024.02.23
+>#### 배포: http://54.180.83.121:8888/
+>관리자 ID: admin
+>
+>사용자 ID: mail@mail.com
+>
+>작업자 ID: 아담청소
+>
+>공통 PW: 1111
+>
+>#### 산출물: https://drive.google.com/drive/u/0/folders/1Bee0VTa_Er4jHM1OXCLdO1wvkF4-G3UE
 
 ### 1. 개요
 
